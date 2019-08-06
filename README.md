@@ -44,7 +44,7 @@ Examples
 ![Original](original.jpg)
 ![Processed](processed.svg)
 
-**Configuration:**
+**Configuration:**<br/>
 `-vertexMinimumDistance=13`<br/>
 `-vertexMaximumCount=2000`<br/>
 `-outlineThreshold=60`<br/>
