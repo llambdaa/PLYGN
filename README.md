@@ -45,15 +45,15 @@ Examples
 ![Processed](processed.svg)
 
 **Configuration:**
-`-vertexMinimumDistance=13
--vertexMaximumCount=2000
--outlineThreshold=60
--outliner=SOBEL_VERTICAL
--triangulator=DELAUNAY
--colorizer=CLUSTERED
--exportFormat=SVG
--importPath=/home/llambdaa/Downloads/lion.jpg
--exportPath=/home/llambdaa/Downloads/export.svg`
+`-vertexMinimumDistance=13`<br/>
+`-vertexMaximumCount=2000`<br/>
+`-outlineThreshold=60`<br/>
+`-outliner=SOBEL_VERTICAL`<br/>
+`-triangulator=DELAUNAY`<br/>
+`-colorizer=CLUSTERED`<br/>
+`-exportFormat=SVG`<br/>
+`-importPath=/home/llambdaa/Downloads/lion.jpg`<br/>
+`-exportPath=/home/llambdaa/Downloads/export.svg`<br/>
 
 License
 ===
