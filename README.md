@@ -42,6 +42,7 @@ The result of the process depends on multiple parameters which can be inserted a
 Examples
 ===
 ![Original](original.jpg)
+![Processed](processed.svg)
 
 License
 ===
