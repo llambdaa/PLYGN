@@ -3,11 +3,6 @@
 PLYGN converts your images into low poly artworks! It was a free time project of mine and is open source so that people can extract certain code elements they might need.
 Feel free to take it apart!
 
-Table of Contents
-===
-- How does PLYGN work?
-- How do I use PLYGN?
-
 How does PLYGN work?
 ===
 When the image at the location the user specified in the program arguments is loaded, either one of the **edge detection filters** is applied to a clone of the original image after converting it to grayscale.<br/>
@@ -43,3 +38,11 @@ The result of the process depends on multiple parameters which can be inserted a
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    The image that will be processed is read from this path<br/><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  `-exportPath|-ep = \<value\>` <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    The resulting image is exported to this path<br/><br/>
+
+Examples
+===
+![Original](https://www.maxpixel.net/static/photo/1x/Lion-Wildlife-Feline-Carnivore-Big-Cat-Wild-1657975.jpg)
+
+License
+===
+This project is licensed unter the MIT license.
