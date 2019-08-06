@@ -41,7 +41,7 @@ The result of the process depends on multiple parameters which can be inserted a
 
 Examples
 ===
-![Original](https://www.maxpixel.net/static/photo/1x/Lion-Wildlife-Feline-Carnivore-Big-Cat-Wild-1657975.jpg)
+![Original](original.jpg)
 
 License
 ===
