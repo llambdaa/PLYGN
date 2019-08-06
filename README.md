@@ -44,6 +44,17 @@ Examples
 ![Original](original.jpg)
 ![Processed](processed.svg)
 
+**Configuration:**
+`-vertexMinimumDistance=13
+-vertexMaximumCount=2000
+-outlineThreshold=60
+-outliner=SOBEL_VERTICAL
+-triangulator=DELAUNAY
+-colorizer=CLUSTERED
+-exportFormat=SVG
+-importPath=/home/llambdaa/Downloads/lion.jpg
+-exportPath=/home/llambdaa/Downloads/export.svg`
+
 License
 ===
 This project is licensed unter the MIT license.
